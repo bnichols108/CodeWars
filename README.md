@@ -20,6 +20,7 @@ CodeWars is a website that utilizes gamification for programming that makes it f
 ### Perl:
 ### PowerShell:
 ### Python:
+* [Is your period late?](python/period_is_late.py)
 ### Ruby:
 ### Shell:
 ### SQL:
