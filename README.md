@@ -22,6 +22,7 @@ CodeWars is a website that utilizes gamification for programming that makes it f
 ### Python:
 * [Is your period late?](python/period_is_late.py)
 * [Array.diff](python/array_diff.py)
+* [Square Every Digit](python/square_every_digit.py)
 ### Ruby:
 ### Shell:
 ### SQL:
