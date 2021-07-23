@@ -26,6 +26,7 @@ CodeWars is a website that utilizes gamification for programming that makes it f
 * [Duplicate Encoder](python/duplicate_encode.py)
 * [Find the next perfect square!](python/find_next_square.py)
 * [Printer Errors](python/printer_error.py)
+* [Find the unique number](python/find_uniq.py)
 ### Ruby:
 ### Shell:
 ### SQL:
