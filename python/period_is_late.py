@@ -1,3 +1,4 @@
+# Description:
 # In this kata, we will make a function to test whether a period is late.
 # Our function will take three parameters:
 # last - The Date object with the date of the last period
