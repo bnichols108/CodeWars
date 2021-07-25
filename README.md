@@ -29,6 +29,7 @@ CodeWars is a website that utilizes gamification for programming that makes it f
 * [Find the unique number](python/find_uniq.py)
 * [Detect Pangram](python/is_pangram.py)
 * [Replace With Alphabet Position](python/alphabet_position.py)
+* [Take a Ten Minute Walk](python/is_valid_walk.py)
 ### Ruby:
 ### Shell:
 ### SQL:
