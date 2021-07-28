@@ -31,6 +31,10 @@ CodeWars is a website that utilizes gamification for programming that makes it f
 * [Replace With Alphabet Position](python/alphabet_position.py)
 * [Take a Ten Minute Walk](python/is_valid_walk.py)
 * [Build Tower](python/tower_builder.py)
+* [Abbreviate a Two Word Name](python/abbrev_name.py)
+* [Band name generator](python/band_name_generator.py)
+* [DNA to RNA Conversion](python/dna_to_rna.py)
+* [Simple remove duplicates](python/solve.py)
 ### Ruby:
 ### Shell:
 ### SQL:
